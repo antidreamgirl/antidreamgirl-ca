@@ -40,7 +40,8 @@ params:
             enabled: false
 
     comments:
-        enabled: false
+        enabled: true
+        provider: utterances
 
     widgets:
         enabled:
