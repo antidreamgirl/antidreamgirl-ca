@@ -1,4 +1,4 @@
-baseurl: https://antidreamgirl.ca
+baseurl: "/"
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
@@ -73,7 +73,7 @@ params:
         toggle: true
 
         # Available values: auto, light, dark
-        default: dark
+        default: auto
 
     imageProcessing:
         cover:
