@@ -42,6 +42,11 @@ params:
     comments:
         enabled: true
         provider: utterances
+        utterances:
+            repo: antidreamgirl/antidreamgirl-ca
+            issueTerm: pathname
+            label: comment
+            theme: preferred-color-scheme
 
     widgets:
         enabled:
